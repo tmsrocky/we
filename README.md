@@ -1,0 +1,2 @@
+# we
+testnet only
